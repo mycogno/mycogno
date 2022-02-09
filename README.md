@@ -10,4 +10,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jdg4661@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat)](https://blog.naver.com/jdg4661)
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jdg4661">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdg4661)](https://solved.ac/jdg4661)
