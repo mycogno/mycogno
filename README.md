@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jdg4661@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/NaverBlog-03C75A?style=flat)](https://blog.naver.com/jdg4661)
 [![Blog Badge](https://img.shields.io/badge/Velog-61D9EB?style=flat)](https://velog.io/@mycogno)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jdg4661)](https://solved.ac/jdg4661)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmycogno&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
