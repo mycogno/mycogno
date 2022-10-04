@@ -10,6 +10,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jdg4661@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Velog-61D9EB?style=flat)](https://velog.io/@mycogno)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jdg4661)](https://solved.ac/jdg4661)
 
